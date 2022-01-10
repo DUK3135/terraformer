@@ -16,7 +16,7 @@ require (
 	github.com/IBM/go-sdk-core/v4 v4.9.0
 	github.com/IBM/ibm-cos-sdk-go v1.5.0
 	github.com/IBM/keyprotect-go-client v0.6.0
-	github.com/IBM/networking-go-sdk v0.19.0
+	github.com/IBM/networking-go-sdk v0.24.0
 	github.com/IBM/platform-services-go-sdk v0.19.1
 	github.com/IBM/vpc-go-sdk v0.4.1
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
@@ -179,7 +179,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.0 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/IBM/go-sdk-core/v5 v5.5.1 // indirect
+	github.com/IBM/go-sdk-core/v5 v5.6.5 // indirect
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
